@@ -123,8 +123,6 @@ I work at the intersection of **software, machine learning, and electronics**. M
 
 ## 🧩 LeetCode Progress
 
-> Replace `YOUR_LEETCODE_USERNAME` once with your actual LeetCode handle. The cards below are designed to update dynamically from that username.
-
 ### Live Profile
 
 <p align="center">
@@ -137,23 +135,6 @@ I work at the intersection of **software, machine learning, and electronics**. M
       <img
         src="https://leetcard.jacoblin.cool/Ravi2k25?theme=light"
         alt="LeetCode statistics"
-      />
-    </picture>
-  </a>
-</p>
-
-### Contest Performance
-
-<p align="center">
-  <a href="https://leetcode.com/Ravi2k25/contest/">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://leetcard.jacoblin.cool/Ravi2k25?ext=contest&theme=dark"
-      />
-      <img
-        src="https://leetcard.jacoblin.cool/Ravi2k25?ext=contest&theme=light"
-        alt="LeetCode contest rating and history"
       />
     </picture>
   </a>
@@ -193,24 +174,6 @@ I work at the intersection of **software, machine learning, and electronics**. M
   </a>
 </p>
 
-### Detailed Statistics
-
-| Metric | Current |
-|---|---:|
-| **Total Solved** | `YOUR_TOTAL_SOLVED / TOTAL_AVAILABLE` |
-| **Easy** | `YOUR_EASY_SOLVED / EASY_AVAILABLE` |
-| **Medium** | `YOUR_MEDIUM_SOLVED / MEDIUM_AVAILABLE` |
-| **Hard** | `YOUR_HARD_SOLVED / HARD_AVAILABLE` |
-| **Acceptance Rate** | `YOUR_ACCEPTANCE_RATE%` |
-| **Global Ranking** | `YOUR_GLOBAL_RANK` |
-| **Contest Rating** | `YOUR_CONTEST_RATING` |
-| **Contest Global Rank** | `YOUR_CONTEST_GLOBAL_RANK` |
-| **Contest Top %** | `YOUR_CONTEST_TOP_PERCENTAGE%` |
-| **Contests Attended** | `YOUR_CONTESTS_ATTENDED` |
-| **Badges Earned** | `YOUR_BADGES_EARNED` |
-| **Current Streak** | `YOUR_CURRENT_STREAK days` |
-| **Longest Streak** | `YOUR_LONGEST_STREAK days` |
-| **Total Active Days** | `YOUR_ACTIVE_DAYS` |
 
 ### Problem-Solving Focus
 
@@ -218,11 +181,7 @@ I work at the intersection of **software, machine learning, and electronics**. M
 
 **Languages used:** C++ · Python · JavaScript
 
-**Most-practiced language:** `YOUR_TOP_LANGUAGE`
-
-**Top problem tags:** `YOUR_TOP_5_TAGS`
-
-**LeetCode:** [View full profile](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+**LeetCode:** [View full profile](https://leetcode.com/Ravi2k25/)
 
 ---
 
